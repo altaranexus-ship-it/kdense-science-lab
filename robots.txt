@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altaranexus-ship-it.github.io/kdense-science-lab/sitemap.xml
